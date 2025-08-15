@@ -1,0 +1,18 @@
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.39
+langchain-experimental==0.0.65
+langchain-openai==0.1.23
+langchain-text-splitters==0.2.2
+langgraph==0.2.16
+langgraph-checkpoint==1.0.8
+fuzzywuzzy
+fastapi
+pandas
+pycryptodome
+# attention enter env/lib/python3.10/site-packages/ && mv crypto Crypto
+pypinyin
+matplotlib
+treelib
+layotto
+python-Levenshtein

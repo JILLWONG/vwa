@@ -1,0 +1,41 @@
+[
+    {
+      "image": "demo/images/COCO_train2014_000000580957.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "Is the value of Favorable 38 in 2015?\n<image>"
+        },
+        {
+          "from": "gpt",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "image": "demo/images/COCO_train2014_000000580957.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "How many values are below 40 in Unfavorable graph?\n<image>"
+        },
+        {
+          "from": "gpt",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "image": "demo/images/COCO_train2014_000000580957.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "In which year the value was 51?\n<image>"
+        },
+        {
+          "from": "gpt",
+          "value": "2014"
+        }
+      ]
+    }
+]
